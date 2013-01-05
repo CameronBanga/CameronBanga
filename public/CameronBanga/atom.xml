@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cameron Banga's Blog]]></title>
+  <link href="http://CameronBanga.github.com/CameronBanga/atom.xml" rel="self"/>
+  <link href="http://CameronBanga.github.com/CameronBanga/"/>
+  <updated>2013-01-05T16:24:07-06:00</updated>
+  <id>http://CameronBanga.github.com/CameronBanga/</id>
+  <author>
+    <name><![CDATA[Cameron Banga]]></name>
+    <email><![CDATA[CameronBanga@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Let's try another blog.]]></title>
+    <link href="http://CameronBanga.github.com/CameronBanga/blog/2013/01/04/lets-try-another-blog-dot/"/>
+    <updated>2013-01-04T19:34:00-06:00</updated>
+    <id>http://CameronBanga.github.com/CameronBanga/blog/2013/01/04/lets-try-another-blog-dot</id>
+    <content type="html"><![CDATA[<p>Welcome to my new blog. This is an example post. Let&#8217;s see how this works.</p>
+]]></content>
+  </entry>
+  
+</feed>

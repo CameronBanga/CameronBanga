@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://CameronBanga.github.com/CameronBanga/blog/2013/01/04/lets-try-another-blog-dot/
+        </loc>
+        <lastmod>2013-01-04T19:43:34-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CameronBanga.github.com/CameronBanga/blog/archives/</loc>
+        <lastmod>2013-01-04T19:43:34-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CameronBanga.github.com/CameronBanga/</loc>
+        <lastmod>2013-01-04T19:43:34-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CameronBanga.github.com/CameronBanga/robots.txt</loc>
+        <lastmod>2013-01-04T18:30:21-06:00</lastmod>
+    </url>
+</urlset>
