@@ -109,7 +109,7 @@ body>div>div {
 }
 
 .sans, body>header h2, article header p.meta, article>footer, #content .blog-index footer, html .gist .gist-file .gist-meta, #blog-archives a.category, #blog-archives time, aside.sidebar section, body>footer {
-	font-family:"PT Sans", "Helvetica Neue", Arial, sans-serif;
+	font-family:"Donegal One", "Helvetica Neue", Arial, sans-serif;
 }
 
 .serif, body, #content .blog-index a[rel=full-article] {
@@ -122,19 +122,19 @@ body>div>div {
 
 body>header h1 {
 	font-size:2.2em;
-	font-family:"PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif;
+	font-family:"Donegal One", "Georgia", "Helvetica Neue", Arial, sans-serif;
 	font-weight:normal;
 	line-height:1.2em;
 	margin-bottom:0.6667em;
 }
 
 body>header h2 {
-	font-family:"PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif;
+	font-family:"Donegal One", "Georgia", "Helvetica Neue", Arial, sans-serif;
 }
 
 body {
 	line-height:1.5em;
-	color:#EEEEEE;
+	color:#373737;
 }
 
 h1 {
@@ -649,7 +649,7 @@ aside.sidebar {
 }
 
 }body>header {
-	background:#DFDFDF;
+	background:#BFBFBF;
 }
 
 body>header h1 {
@@ -694,7 +694,7 @@ body>nav form {
 body>nav form .search {
 	padding:.3em .5em 0;
 	font-size:.85em;
-	font-family:"PT Sans", "Helvetica Neue", Arial, sans-serif;
+	font-family:"Donegal One", "Helvetica Neue", Arial, sans-serif;
 	line-height:1.1em;
 	width:95%;
 	-webkit-border-radius:0.5em;
@@ -797,7 +797,7 @@ body>nav ul li {
 
 body>nav a {
 	color:#6b6b6b;
-	font-family:"PT Sans", "Helvetica Neue", Arial, sans-serif;
+	font-family:"Donegal One", "Helvetica Neue", Arial, sans-serif;
 	text-shadow:#ebebeb 0 1px;
 	float:left;
 	text-decoration:none;
