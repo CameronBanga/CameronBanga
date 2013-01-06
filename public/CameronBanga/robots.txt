@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: smallestpixel.org/sitemap.xml 
+Sitemap: http://CameronBanga.github.com/CameronBanga/sitemap.xml 
