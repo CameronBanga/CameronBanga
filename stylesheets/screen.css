@@ -89,9 +89,9 @@ a {
 	-o-transition:color 0.3s;
 	transition:color 0.3s;
 }
-
+/* background color */
 html {
-	background:#3D3D3D url('/CameronBanga/images/line-tile.png?1357345821') top left;
+	background:#F9F9F9 url('/CameronBanga/images/line-tile.png?1357345821') top left;
 }
 
 body>div {
@@ -131,7 +131,7 @@ body>header h1 {
 body>header h2 {
 	font-family:"Donegal One", "Georgia", "Helvetica Neue", Arial, sans-serif;
 }
-
+/* Body text color */
 body {
 	line-height:1.5em;
 	color:#474747;
@@ -647,7 +647,7 @@ aside.sidebar {
 	ul, ol {
 	margin-left:0;
 }
-
+/*Header box background color*/
 }body>header {
 	background:#3D3D3D;
 }
