@@ -37,7 +37,7 @@ function Pinboard_Linkroll() {
   this.format_item = function(it) {
     var str = "<li class=\"pin-item\">";
     if (!it.d) { return; }
-    str += "<p><a class=\"pin-title\" href=\"" + this.cook(it.u) + "\">" + this.cook(it.d) + "</a>";
+    str += "<p><a class=\"pin-title\" href=\"" + this.cook(it.u) + "\">" + this.cook(it.d) + "</a>\n";
     if (it.n) {
       str += "<span class=\"pin-description\">" + this.cook(it.n) + "</span>\n";
     }
