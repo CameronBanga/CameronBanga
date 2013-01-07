@@ -4,7 +4,7 @@
   <title><![CDATA[the smallest pixel.]]></title>
   <link href="smallestpixel.org/atom.xml" rel="self"/>
   <link href="smallestpixel.org/"/>
-  <updated>2013-01-06T17:49:29-06:00</updated>
+  <updated>2013-01-06T23:01:57-06:00</updated>
   <id>smallestpixel.org/</id>
   <author>
     <name><![CDATA[Cameron Banga]]></name>
@@ -14,11 +14,23 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Let's try another blog.]]></title>
-    <link href="smallestpixel.org/blog/2013/01/04/lets-try-another-blog-dot/"/>
-    <updated>2013-01-04T19:34:00-06:00</updated>
-    <id>smallestpixel.org/blog/2013/01/04/lets-try-another-blog-dot</id>
-    <content type="html"><![CDATA[<p>Welcome to my new blog. This is an example post. Let&#8217;s see how this works.</p>
+    <title type="html"><![CDATA[Introducing your humble narrator.]]></title>
+    <link href="smallestpixel.org/blog/2013/01/06/introducing-your-humble-narrator/"/>
+    <updated>2013-01-06T21:15:00-06:00</updated>
+    <id>smallestpixel.org/blog/2013/01/06/introducing-your-humble-narrator</id>
+    <content type="html"><![CDATA[<p>Sigh, the first paragraph. I&#8217;ve started a handful of blogs, yet none have had a memorable start from what I can remember, so I&#8217;m going to ideally make this post short and sweet. Think of this as the first snowball that will hopefully roll down the hill and become an avalanche.</p>
+
+<p>While I think my background is rather unimportant, I do think it will be relevant when trying to understand the point of view behind this blog. Through better understanding me, I hope that you will also be able to better understand my posts.</p>
+
+<p>My name is Cameron Banga, and I am currently search lead designer at <a href="http://9magnets.com">9magnets, LLC</a>. I co-founded the company after graduating college in 2010, and we&#8217;ve worked on nearly 100 iPhone, iPad, and Android apps since opening our doors.</p>
+
+<p>Along the way, I&#8217;ve also written a <a href="http://amazon.com/cameronbanga">book</a> on iOS user interface design and have given a variety of talks on mobile tech and the future of entrepreneurship. When it comes to my personal interests, I really enjoy taking photos with my Canon Rebel T2i, vinyl albums, and soccer.</p>
+
+<p>For this blog, my goal is to lend my opinion on starting a self-sustainable tech company, productivity, improving workflows, design, online data security and anything else that I think I can offer valuable input on. My only goal with each post will be to write something that will help you learn or make you think.</p>
+
+<p>I don&#8217;t have a tangible idea as to how often I&#8217;ll post or how long the blog will last. It&#8217;s more of a personal experiment for myself that I&#8217;ll be more than happy to share. I suppose I&#8217;ll write for as long as it feels right, and that&#8217;s about all I can promise.</p>
+
+<p>Thanks for reading along until the end, I hope you enjoy what you read. If you have any questions, comments or suggestions, feel free to reach out whenever via <a href="mailto:cameron@cameronbanga.com">email</a>.</p>
 ]]></content>
   </entry>
   
