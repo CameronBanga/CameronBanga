@@ -41,7 +41,7 @@ function prettyDate(time) {
 
 function linkifyTweet(text, url) {
   // Linkify urls, usernames, hashtags
-  text = text.replace(/(https?:\/\/)([\w\-:;?&=+.%#\/]+)/gi, '<a href="$1$2">$2</a> &ndash; ')
+  text = text.replace(/(https?:\/\/)([\w\-:;?&=+.%#\/]+)/gi, '<a href="$1$2">$2</a>')
     .replace(/(^|\W)@(\w+)/g, '$1<a href="https://twitter.com/$2">@$2</a>')
     .replace(/(^|\W)#(\w+)/g, '$1<a href="https://search.twitter.com/search?q=%23$2">#$2</a>');
 
@@ -62,7 +62,7 @@ function showTwitterFeed(tweets, twitter_user) {
       content = '';
 
   for (var t in tweets) {
-    content += '<li>'+'<p>'+'<a href="https://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">'+prettyDate(tweets[t].created_at)+'</a>'+linkifyTweet(tweets[t].text.replace(/\n/g, '<br>'), tweets[t].entities.urls)+'</p>'+'</li>';
+    content += '<li>'+'<p>'+'<a href="https://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">'+prettyDate(tweets[t].created_at)+'</a>'+linkifyTweet(tweets[t].text.replace(/\n/g, ' '), tweets[t].entities.urls)+'</p>'+'</li>';
   }
   timeline.innerHTML = content;
 }
