@@ -649,7 +649,7 @@ aside.sidebar {
 }
 
 }body>header {
-	background:#E0DFDC;
+	background:#3D3D3D;
 }
 
 body>header h1 {
@@ -658,14 +658,14 @@ body>header h1 {
 }
 
 body>header h1 a, body>header h1 a:visited, body>header h1 a:hover {
-	color:#525252;
+	color:#EDEDED;
 	text-decoration:none;
 }
 
 body>header h2 {
 	margin:.2em 0 0;
 	font-size:1em;
-	color:#aaa;
+	color:#D1D1D1;
 	font-weight:normal;
 }
 
