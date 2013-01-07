@@ -7,15 +7,15 @@ function prettyDate(time) {
     return "<span>&infin;</span>"; // because IE date parsing isn't fun.
   }
   var say = {
-    just_now:    " now\n",
-    minute_ago:  "1m\n",
-    minutes_ago: "m\n",
-    hour_ago:    "1h\n",
-    hours_ago:   "h\n",
-    yesterday:   "1d\n",
-    days_ago:    "d\n",
-    last_week:   "1w\n",
-    weeks_ago:   "w\n"
+    just_now:    "now",
+    minute_ago:  "1m",
+    minutes_ago: "m",
+    hour_ago:    "1h",
+    hours_ago:   "h",
+    yesterday:   "1d",
+    days_ago:    "d",
+    last_week:   "1w",
+    weeks_ago:   "w"
   };
 
   var current_date = new Date(),
@@ -41,7 +41,7 @@ function prettyDate(time) {
 
 function linkifyTweet(text, url) {
   // Linkify urls, usernames, hashtags
-  text = text.replace(/(https?:\/\/)([\w\-:;?&=+.%#\/]+)/gi, '<a href="$1$2">$2</a>')
+  text = text.replace(/(https?:\/\/)([\w\-:;?&=+.%#\/]+)/gi, '<a href="$1$2">$2</a> &ndash; ')
     .replace(/(^|\W)@(\w+)/g, '$1<a href="https://twitter.com/$2">@$2</a>')
     .replace(/(^|\W)#(\w+)/g, '$1<a href="https://search.twitter.com/search?q=%23$2">#$2</a>');
 
