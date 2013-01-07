@@ -89,9 +89,9 @@ a {
 	-o-transition:color 0.3s;
 	transition:color 0.3s;
 }
-
+/* background color */
 html {
-	background:#252525 url('/CameronBanga/images/line-tile.png?1357345821') top left;
+	background:#F9F9F9 url('/CameronBanga/images/line-tile.png?1357345821') top left;
 }
 
 body>div {
@@ -130,11 +130,12 @@ body>header h1 {
 
 body>header h2 {
 	font-family:"Donegal One", "Georgia", "Helvetica Neue", Arial, sans-serif;
+	font-weight:300;
 }
-
+/* Body text color */
 body {
 	line-height:1.5em;
-	color:#373737;
+	color:#474747;
 }
 
 h1 {
@@ -647,9 +648,9 @@ aside.sidebar {
 	ul, ol {
 	margin-left:0;
 }
-
+/*Header box background color*/
 }body>header {
-	background:#BFBFBF;
+	background:#3D3D3D;
 }
 
 body>header h1 {
@@ -658,14 +659,14 @@ body>header h1 {
 }
 
 body>header h1 a, body>header h1 a:visited, body>header h1 a:hover {
-	color:#f2f2f2;
+	color:#EDEDED;
 	text-decoration:none;
 }
 
 body>header h2 {
 	margin:.2em 0 0;
 	font-size:1em;
-	color:#aaa;
+	color:#D1D1D1;
 	font-weight:normal;
 }
 
@@ -796,7 +797,7 @@ body>nav ul li {
 }
 
 body>nav a {
-	color:#6b6b6b;
+	color:#302f2f;
 	font-family:"Donegal One", "Helvetica Neue", Arial, sans-serif;
 	text-shadow:#ebebeb 0 1px;
 	float:left;

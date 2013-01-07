@@ -8,14 +8,14 @@ function prettyDate(time) {
   }
   var say = {
     just_now:    "now",
-    minute_ago:  "1m",
-    minutes_ago: "m",
-    hour_ago:    "1h",
-    hours_ago:   "h",
-    yesterday:   "1d",
-    days_ago:    "d",
-    last_week:   "1w",
-    weeks_ago:   "w"
+    minute_ago:  "1 minute ago",
+    minutes_ago: "&nbsp;minutes ago",
+    hour_ago:    "1 hour ago",
+    hours_ago:   "&nbsp;hours ago",
+    yesterday:   "1 day ago",
+    days_ago:    "&nbsp;days ago",
+    last_week:   "1 week ago",
+    weeks_ago:   "&nbsp;weeks ago"
   };
 
   var current_date = new Date(),
@@ -62,7 +62,7 @@ function showTwitterFeed(tweets, twitter_user) {
       content = '';
 
   for (var t in tweets) {
-    content += '<li>'+'<p>'+'<a href="https://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">'+prettyDate(tweets[t].created_at)+'</a>'+linkifyTweet(tweets[t].text.replace(/\n/g, '&nbsp;'), tweets[t].entities.urls)+'</p>'+'</li>';
+    content += '<li>'+'<p>'+'<a href="https://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">'+prettyDate(tweets[t].created_at)+'</a>&nbsp;&ndash;&nbsp;'+linkifyTweet(tweets[t].text.replace(/\n/g, '<br>'), tweets[t].entities.urls)+'</p>'+'</li>';
   }
   timeline.innerHTML = content;
 }

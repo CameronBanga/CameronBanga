@@ -4,7 +4,7 @@
 
 url: smallestpixel.org
 title: the smallest pixel.
-subtitle: A web log on productivity and design.
+subtitle: A journal on personal betterment by Cameron Banga.
 author: Cameron Banga
 simple_search: http://google.com/search
 description:
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: CameronBanga@gmail.com
+email: cameron@cameronbanga.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -68,7 +68,7 @@ twitter_user: CameronBanga
 twitter_tweet_count: 3
 twitter_show_replies: false
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
@@ -82,7 +82,7 @@ googleplus_hidden: false
 
 # Pinboard
 pinboard_user: cbanga
-pinboard_count: 5
+pinboard_count: 10
 
 # Delicious
 delicious_user:
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-27404029-1
 
 # Facebook Like
 facebook_like: false
