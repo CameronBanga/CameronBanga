@@ -91,7 +91,7 @@ a {
 }
 
 html {
-	background:#252525 url('/CameronBanga/images/line-tile.png?1357345821') top left;
+	background:#F0EFEA url('/CameronBanga/images/line-tile.png?1357345821') top left;
 }
 
 body>div {
@@ -134,7 +134,7 @@ body>header h2 {
 
 body {
 	line-height:1.5em;
-	color:#373737;
+	color:#ebebeb;
 }
 
 h1 {
@@ -649,7 +649,7 @@ aside.sidebar {
 }
 
 }body>header {
-	background:#BFBFBF;
+	background:#E0DFDC;
 }
 
 body>header h1 {
@@ -658,7 +658,7 @@ body>header h1 {
 }
 
 body>header h1 a, body>header h1 a:visited, body>header h1 a:hover {
-	color:#f2f2f2;
+	color:#525252;
 	text-decoration:none;
 }
 
