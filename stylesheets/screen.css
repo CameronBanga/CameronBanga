@@ -91,7 +91,7 @@ a {
 }
 
 html {
-	background:#F0EFEA url('/CameronBanga/images/line-tile.png?1357345821') top left;
+	background:#3D3D3D url('/CameronBanga/images/line-tile.png?1357345821') top left;
 }
 
 body>div {
@@ -796,7 +796,7 @@ body>nav ul li {
 }
 
 body>nav a {
-	color:#6b6b6b;
+	color:#302f2f;
 	font-family:"Donegal One", "Helvetica Neue", Arial, sans-serif;
 	text-shadow:#ebebeb 0 1px;
 	float:left;
