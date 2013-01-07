@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Cameron Banga's Blog]]></title>
-  <link href="http://CameronBanga.github.com/CameronBanga/atom.xml" rel="self"/>
-  <link href="http://CameronBanga.github.com/CameronBanga/"/>
-  <updated>2013-01-06T23:10:40-06:00</updated>
-  <id>http://CameronBanga.github.com/CameronBanga/</id>
+  <title><![CDATA[the smallest pixel.]]></title>
+  <link href="smallestpixel.org/atom.xml" rel="self"/>
+  <link href="smallestpixel.org/"/>
+  <updated>2013-01-06T23:13:47-06:00</updated>
+  <id>smallestpixel.org/</id>
   <author>
     <name><![CDATA[Cameron Banga]]></name>
     <email><![CDATA[CameronBanga@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Introducing your humble narrator.]]></title>
-    <link href="http://CameronBanga.github.com/CameronBanga/blog/2013/01/06/introducing-your-humble-narrator/"/>
+    <link href="smallestpixel.org/blog/2013/01/06/introducing-your-humble-narrator/"/>
     <updated>2013-01-06T21:15:00-06:00</updated>
-    <id>http://CameronBanga.github.com/CameronBanga/blog/2013/01/06/introducing-your-humble-narrator</id>
+    <id>smallestpixel.org/blog/2013/01/06/introducing-your-humble-narrator</id>
     <content type="html"><![CDATA[<p>Sigh, the first paragraph. I&#8217;ve started a handful of blogs, yet none have had a memorable start from what I can remember, so I&#8217;m going to ideally make this post short and sweet. Think of this as the first snowball that will hopefully roll down the hill and become an avalanche.</p>
 
 <p>While I think my background is rather unimportant, I do think it will be relevant when trying to understand the point of view behind this blog. Through better understanding me, I hope that you will also be able to better understand my posts.</p>
