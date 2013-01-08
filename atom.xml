@@ -4,7 +4,7 @@
   <title><![CDATA[the smallest pixel.]]></title>
   <link href="smallestpixel.org/atom.xml" rel="self"/>
   <link href="smallestpixel.org/"/>
-  <updated>2013-01-07T10:31:33-06:00</updated>
+  <updated>2013-01-08T15:20:04-06:00</updated>
   <id>smallestpixel.org/</id>
   <author>
     <name><![CDATA[Cameron Banga]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Times, They Aren't A Changin']]></title>
+    <link href="smallestpixel.org/blog/2013/01/08/the-times-they-arent-a-changin/"/>
+    <updated>2013-01-08T14:56:00-06:00</updated>
+    <id>smallestpixel.org/blog/2013/01/08/the-times-they-arent-a-changin</id>
+    <content type="html"><![CDATA[<p>Fun little OS X easter egg that I&#8217;ve never noticed before. I&#8217;m a huge Apple and Macintosh history buff, so if I didn&#8217;t know this, you probably didn&#8217;t either.</p>
+
+<p>In Mountain Lion (and assumably earlier versions of OS X too, but I don&#8217;t have any past versions on hand to try with), when a file download fails to complete or is cancelled before the entire file is transferred, an arbitrary timestamp is given to the file&#8217;s &#8220;Date Modified&#8221; attribute.</p>
+
+<p><img src="http://images.smallestpixel.org.s3.amazonaws.com/Screen%20Shot%202013-01-08%20at%202.43.12%20PM.png" title="January 24th, 1984" alt="January 24th, 1984" /></p>
+
+<p>This timestamp, as shown above, is midnight PST on January 24th, 1984. Why&#8217;s this date important in Apple history? Back on this Tuesday afternoon, Steve Jobs unveiled the original Macintosh to the world at an Apple Stockholder meeting in one of his first Stevenotes. Here&#8217;s a fun video of the announcement, if you&#8217;ve never seen it.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4KkENSYkMgs" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Another fun Apple history fact. In the video above, the Macintosh introduces itself using a synthetic voice while also playing a variety of impressive (at the time) screen animations. This demo was actually performed on a 512k Macintosh that wouldn&#8217;t be released for another nine months, as the original Macintosh didn&#8217;t have enough memory to power the presentation. <a href="http://folklore.org/StoryView.py?project=Macintosh&amp;story=Intro_Demo.txt&amp;topic=Marketing">According to Andy Hertzfeld</a>, it was one of only two Mac 512k prototypes in existence at that time.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introducing your humble narrator.]]></title>
