@@ -4,7 +4,7 @@
   <title><![CDATA[the smallest pixel.]]></title>
   <link href="smallestpixel.org/atom.xml" rel="self"/>
   <link href="smallestpixel.org/"/>
-  <updated>2013-01-09T00:06:39-06:00</updated>
+  <updated>2013-01-09T10:03:07-06:00</updated>
   <id>smallestpixel.org/</id>
   <author>
     <name><![CDATA[Cameron Banga]]></name>
@@ -24,16 +24,24 @@
 
 <p>If the paragraph above contains a lot of words that scare you, don&#8217;t worry or leave this page, it&#8217;s not <em>that</em> bad, I promise. Let&#8217;s take a look at a quick pro/con list for Octopress.</p>
 
-<p><strong>Pros</strong>
-* It&#8217;s lightweight and self-sufficient
-* A variety of affordable/free hosting options
-* I can write in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>
-* Clean, attractive, and customizable
-* Writing posts, updating posts and pushing blog changes is quick and easy and done completely in my desktop</p>
+<p><strong>Pros</strong></p>
 
-<p><strong>Cons</strong>
-* It&#8217;s a bit of a bitch to set up
-* It&#8217;s lightweight and self-sufficient</p>
+<ul>
+<li>It&#8217;s lightweight and self-sufficient</li>
+<li>A variety of affordable/free hosting options</li>
+<li>I can write in <a href="http://daringfireball.net/projects/markdown/">Markdown</a></li>
+<li>Clean, attractive, and customizable</li>
+<li>Writing posts, updating posts and pushing blog changes is quick and easy and done completely in my desktop</li>
+</ul>
+
+
+<p><strong>Cons</strong></p>
+
+<ul>
+<li>It&#8217;s a bit of a bitch to set up</li>
+<li>It&#8217;s lightweight and self-sufficient</li>
+</ul>
+
 
 <p>So why Octopress instead of another solution like Wordpress, Tumblr, Blogger, etc? I&#8217;ve used a good deal of these solutions and easily could have set one up for the Smallest Pixel. But I didn&#8217;t for a variety of reasons.</p>
 
@@ -47,7 +55,7 @@
 
 <p>Most importantly, this means that all of my blog posts are available to me at anytime in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> format. If you&#8217;re unfamiliar with Markdown, it is a language written by <a href="http://daringfireball.com">John Gruber</a> that is designed to be an easy-to-read and easy-to-write format for bloggers.</p>
 
-<p>I write in plain text, using simple characters such as [,},(,),* or > to implement common formatting that would typically require HTML. This means that I don&#8217;t need messy WYSIWYG editor and my posts are easy to read, and then easily converted to static HTML pages via Octopress. Because of this, I can write in my preferred desktop app (I use <a href="http://google.com">iA Writer</a>), and then have that Markdown file published up to the server.</p>
+<p>I write in plain text, using simple characters such as [,},(,),* or > to implement common formatting that would typically require HTML. This means that I don&#8217;t need messy WYSIWYG editor and my posts are easy to read, and then easily converted to static HTML pages via Octopress. Because of this, I can write in my preferred desktop app (I use <a href="http://www.iawriter.com/">iA Writer</a>), and then have that Markdown file published up to the server.</p>
 
 <p>The magic of Octopress is that once I write, I only need to connect my blog to a hosting provider. I used <a href="http://github.com">GitHub</a> using their free personal page service, but I could have gone with <a href="http://heroku.com">Heroku</a> or even hosted my own solution. This is great because I have a variety of free options, but can fall back on my own hosting plan if need be. Once I&#8217;ve selected a host, I just set up a Git repository on my Mac, throw a few simple commands into Terminal.app, and everything is published. I never have to leave my desktop.</p>
 

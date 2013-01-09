@@ -12,15 +12,17 @@ If you're perusing around the new blog, you may have noticing the short credit l
 If the paragraph above contains a lot of words that scare you, don't worry or leave this page, it's not *that* bad, I promise. Let's take a look at a quick pro/con list for Octopress.
 
 **Pros**
-* It's lightweight and self-sufficient
-* A variety of affordable/free hosting options
-* I can write in [Markdown](http://daringfireball.net/projects/markdown/)
-* Clean, attractive, and customizable
-* Writing posts, updating posts and pushing blog changes is quick and easy and done completely in my desktop
+
++ It's lightweight and self-sufficient
++ A variety of affordable/free hosting options
++ I can write in [Markdown](http://daringfireball.net/projects/markdown/)
++ Clean, attractive, and customizable
++ Writing posts, updating posts and pushing blog changes is quick and easy and done completely in my desktop
 
 **Cons**
-* It's a bit of a bitch to set up
-* It's lightweight and self-sufficient
+
++ It's a bit of a bitch to set up
++ It's lightweight and self-sufficient
 
 So why Octopress instead of another solution like Wordpress, Tumblr, Blogger, etc? I've used a good deal of these solutions and easily could have set one up for the Smallest Pixel. But I didn't for a variety of reasons.
 
@@ -34,7 +36,7 @@ Octopress is completely self-contained, sitting on my MacBook Pro contained in a
 
 Most importantly, this means that all of my blog posts are available to me at anytime in [Markdown](http://daringfireball.net/projects/markdown/) format. If you're unfamiliar with Markdown, it is a language written by [John Gruber](http://daringfireball.com) that is designed to be an easy-to-read and easy-to-write format for bloggers. 
 
-I write in plain text, using simple characters such as [,},(,),* or > to implement common formatting that would typically require HTML. This means that I don't need messy WYSIWYG editor and my posts are easy to read, and then easily converted to static HTML pages via Octopress. Because of this, I can write in my preferred desktop app (I use [iA Writer](http://google.com)), and then have that Markdown file published up to the server.
+I write in plain text, using simple characters such as [,},(,),* or > to implement common formatting that would typically require HTML. This means that I don't need messy WYSIWYG editor and my posts are easy to read, and then easily converted to static HTML pages via Octopress. Because of this, I can write in my preferred desktop app (I use [iA Writer](http://www.iawriter.com/)), and then have that Markdown file published up to the server.
 
 The magic of Octopress is that once I write, I only need to connect my blog to a hosting provider. I used [GitHub](http://github.com) using their free personal page service, but I could have gone with [Heroku](http://heroku.com) or even hosted my own solution. This is great because I have a variety of free options, but can fall back on my own hosting plan if need be. Once I've selected a host, I just set up a Git repository on my Mac, throw a few simple commands into Terminal.app, and everything is published. I never have to leave my desktop.
 
